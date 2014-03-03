@@ -3,4 +3,4 @@ kmp
 
 Knuth-Morris-Pratt algo(prefix function calculation).
 
-Construction O(n)
+Construction Time O(n), Space O(n)
